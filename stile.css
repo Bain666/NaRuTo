@@ -4,7 +4,7 @@
   font-family: 'Pacifico', cursive;
 }
 body {
-  background: url(img/bg.jpg);/*фоновая картинка блока*/
+  background: url(bg.jpg);/*фоновая картинка блока*/
   background-repeat: no-repeat;/*картинка фона не повторяется*/
   background-position: top;
   background-size:auto 100%;
