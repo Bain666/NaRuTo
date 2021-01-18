@@ -4,7 +4,7 @@
   font-family: 'Pacifico', cursive;
 }
 body {
-  background: url(bg.jpg);/*фоновая картинка блока*/
+  background: url(img/bg.jpg);/*фоновая картинка блока*/
   background-repeat: no-repeat;/*картинка фона не повторяется*/
   background-position: top;
   background-size:auto 100%;
@@ -60,5 +60,13 @@ justify-content: space-around;
 flex-wrap: wrap;
 }
 .galeery img{
-width: 100%;
+width: 100%;}
+.seasonlogo{
+width: 300px;
+}
+.seasons{
+  display: flex;
+}
+.news-block img{
+width: 400px;
 }
